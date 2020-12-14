@@ -1,10 +1,10 @@
 mkdir -p ~/.streamlit/
 echo "\
 [general]\n\
-email = \"your@domain.com\"\n\
+email = \"peter.souza.a@gmail.com\"\n\
 " > ~/.streamlit/credentials.toml
 echo "\
-[server]\n\
+pet_wordcloud\n\
 headless = true\n\
 enableCORS=false\n\
 port = $PORT\n\
